@@ -67,4 +67,4 @@ The project also compares forecasting models such as ARIMA, ETS, and Drift to ev
 
 - GitHub: [Macaroli69](https://github.com/Macaroli69)
 - LinkedIn: Add your LinkedIn link here
-- Email: Add your preferred email here
+- Email: JGabbs1003@Gmail.com
